@@ -1,9 +1,4 @@
-export default {
-    name: 'HelloWorld',
-    props: {
-      msg: String
-    }
-  }
+
 const { MongoClient, ServerApiVersion } = require('mongodb');
 const uri = "mongodb+srv://kauarossanezi:kaua@Rossanezi102030@kauas.qnb3l.mongodb.net/?retryWrites=true&w=majority&appName=kauas";
 
